@@ -1,2 +1,2 @@
 # app
-it is my first repository. I plan to put projects inside it. 
+I encrypt and decrypt M-138 part1 and part 2 in C and Java. Here is the C code.
